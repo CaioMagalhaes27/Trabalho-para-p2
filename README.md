@@ -5,3 +5,4 @@ Trabalho da disciplina de Estrutura de Dados, no qual ilustramos como são utili
 Alunos:
       Caio Sandor Jambor Oliveira
       João Marcelo Brecha Rodrigues
+      Caio Magalhães Marins
